@@ -12,3 +12,5 @@ https://gabriellenoelle.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Gabrielle.
+
+### ©️2021 Run Buddy, Inc 
