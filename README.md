@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://gabriellenoelle.github.io/run-buddy/
+https://gabriellenoelle.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Gabrielle.
